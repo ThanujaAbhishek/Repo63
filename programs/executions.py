@@ -1,0 +1,15 @@
+print(3//2)
+print(3/2)
+print(divmod(4, 8))
+print(4//8)
+print(4%8)
+print(4/8)
+import math
+print(math.trunc(3))
+print(math.trunc(3.156))
+print(round(1.4))
+print(round(2.6))
+print(round(1.5))
+print(round(2.5))
+print(round(1.457, 3))
+
